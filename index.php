@@ -130,7 +130,7 @@
 
                 <h4 class="title-banner">Saiba mais sobre nossos Projetos</h4>
 
-                <p class="txt-banner">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat similique, placeat maxime odio voluptas ducimus pariatur libero accusamus, ad aperiam quis et repellendus cupiditate nostrum.</p>
+                <p class="txt-banner">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque illo iure error accusantium libero nam deleniti quisquam, hic nisi. Ab labore placeat quibusdam ut quasi.</p>
 
                 <a href="#" class="btn-banner">Saiba mais</a>
 
@@ -250,7 +250,7 @@
 
             </div>
 
-            <p class="txt-creditos">Geraldo Cezário Neto &copy; 2025</p>
+            <p class="txt-creditos">Andrieli Santana  &copy; 2025</p>
 
         </div>
 
