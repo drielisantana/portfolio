@@ -244,7 +244,7 @@
 
             </div>
 
-            <p class="txt-creditos">Andrieli Santana &copy; 2025</p>
+            <p class="txt-creditos">Andrieli Santana  j &copy; 2025</p>
 
         </div>
 
